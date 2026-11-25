@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">👋 Hi, I'm Ashley</h3>
-<p align="center">Solutions Architect at ShipBob · ex-IBM<br>I create AI tools and internal products, and ship them until real people use them.</p>
+<p align="center">Solutions Architect at ShipBob · ex-IBM<br>I create AI tools and products, and ship them until real people use them.</p>
 
 <p align="center">
   <a href="https://systemsbyash.com/card/gh"><b>🎮 Play my portfolio →</b></a>
