@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://systemsbyash.com/card/gh"><b>🎮 Play my portfolio →</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ashley-solutions">LinkedIn</a>
 </p>
 
 ---
