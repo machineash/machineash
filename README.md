@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://systemsbyash.com/card/gh"><img src="assets/banner.jpg" alt="SystemsByAsh: a galaxy cloud with a comet in orbit" width="100%"></a>
+  <a href="https://systemsbyash.com/card/gh"><img src="assets/banner.jpg" alt="systemsByAsh.com: a galaxy cloud with a comet in orbit" width="100%"></a>
 </p>
 
 <h3 align="center">👋 Hi, I'm Ashley</h3>
